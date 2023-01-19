@@ -36,7 +36,7 @@ button {
 
 form {
     display: flex;
-    padding: 0 48px;
+    padding: 0 48px 48px;
 }
 
 .habits {
